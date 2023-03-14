@@ -74,7 +74,7 @@ span {
 @media screen and (min-width: 1200px) {
   img {
     display: initial;
-    width: 75%;
+    height: 50%;
     margin-left: 10%;
     border-radius: 30px;
   }
